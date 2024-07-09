@@ -14,4 +14,15 @@
 > [!NOTE]
 > 高级格式
 
+***启动新存储库将其发布到github
+
+- git init
+- git clone
+- git add
+- git commit
+- git status
+- git branch
+- git merge
+- git pull
+- git push
 
