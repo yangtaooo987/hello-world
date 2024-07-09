@@ -1,5 +1,5 @@
 # hello-world
-##练习Github基本操作
+## 练习Github基本操作
 
 [makdown基本语法](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
@@ -14,7 +14,7 @@
 > [!NOTE]
 > 高级格式
 
-***启动新存储库将其发布到github
+### 启动新存储库将其发布到github
 
 - git init
 - git clone
