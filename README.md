@@ -5,6 +5,8 @@
 
 [基本操作参考链接](https://docs.github.com/zh/get-started/start-your-journey/hello-world)
 
+[VIM基本操作](https://www.runoob.com/linux/linux-vim.html)
+
 1. 创建仓储库；
 2. 创建分支；
 3. 进行提交更改；
